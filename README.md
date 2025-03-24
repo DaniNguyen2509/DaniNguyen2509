@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ## About Me
-I'm **[Dani Nguyen]**, a Retail Operations Specialist transitioning into the world of Data Analytics. With over 7 years of experience in retail management and sales operations, I am now focusing on data-driven decision-making and business intelligence.
+I'm **Dani Nguyen**, a Retail Operations Specialist transitioning into the world of Data Analytics. With over 7 years of experience in retail management and sales operations, I am now focusing on data-driven decision-making and business intelligence.
 
 ## 🔍 My Interests
 - 📊 Data Analysis & Visualization (Power BI, Tableau, Python, SQL)
